@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "448495227320",
+    "firebase_url": "https://capstone-66f9c.firebaseio.com",
+    "project_id": "capstone-66f9c",
+    "storage_bucket": "capstone-66f9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448495227320:android:21237f2e7639d5e7",
+        "android_client_info": {
+          "package_name": "com.instanews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448495227320-mc68l0i5r73u3pn8gdafemg8f4e1hksc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHRZy23YlDsLo8hxwgmfrImQ6arWAKWmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

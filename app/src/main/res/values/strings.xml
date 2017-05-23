@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstaNews</string>
+    <string name="error_news_message">Failed to retrieve news</string>
+    <string name="loading_message">Loading...</string>
+    <string name="error_no_network">No network connectivity! Will load news when the network is available.</string>
+    <string name="news_image_description">This News Article Image</string>
+    <string name="news_url_description">Go to the original news article</string>
+
+</resources>
